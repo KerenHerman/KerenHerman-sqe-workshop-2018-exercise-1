@@ -13,5 +13,5 @@ script:
 notifications:
   email:
     recipients:
-      - avdayan@bgu.ac.il
+      - kerenherman1@gmail.com
     on_failure: always
